@@ -39,14 +39,14 @@
 }
 
 .hero-img-1 {
-    background-image: url('../img/hero-mald.png');
+    background-image: url("../img/hero-mald.png");
     background-repeat: no-repeat;
     background-size: auto;
     margin-bottom: 24px;
 }
 
 .hero-img-2 {
-    background-image: url('../img/hero-Crit.png');
+    background-image: url("../img/hero-Crit.png");
     background-repeat: no-repeat;
     background-size: auto;
 }
