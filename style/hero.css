@@ -1,0 +1,94 @@
+.hero-title{
+    color: #333;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 20px;
+    margin-left: 40px;
+}
+
+.hero__block-title{
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 15px;
+}
+
+.hero__block-price{
+    color: #FFF;
+    font-size: 20px;
+    line-height: normal;
+    margin-bottom: 47px;
+}
+
+.hero__block-links{
+    color: #F0BF5F;
+    font-size: 16px;
+    line-height: normal;
+    display: flex;
+}
+
+.hero__block-link {
+    margin-right: 5px;
+}
+
+.hero__block{
+    padding: 40px 45px;
+    border-radius: 15px;
+}
+
+.hero-img-1 {
+    background-image: url('/img/hero-mald.png');
+    background-repeat: no-repeat;
+    background-size: auto;
+    margin-bottom: 24px;
+}
+
+.hero-img-2 {
+    background-image: url('/img/hero-Crit.png');
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.hero-one__container {
+    width: 49%;
+    margin-right: 24px;
+}
+
+.hero__container{
+    display: flex;
+}
+
+.hero-two__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding-left: 45px;
+    padding-bottom: 40px;
+    background-image: url("/img/hero-otel.png");
+    background-repeat: no-repeat;
+    background-size: auto;
+    width: 49%;
+    border-radius: 15px;
+}
+
+.hero-two__block-title{
+    color: #FFF;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 15px;
+}
+
+.hero-two__block-price{
+    color: #FFF;
+    font-size: 30px;
+    line-height: normal;
+    margin-bottom: 47px;
+}
+
+.hero{
+    margin-bottom: 70px;
+}
+

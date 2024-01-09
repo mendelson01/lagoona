@@ -1,0 +1,72 @@
+.header__logo-link{
+    color: #666;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: normal;
+    display: block;
+}
+
+.header__logo {
+    display: flex;
+    align-items: center;
+}
+
+.header__logo-img{
+    margin-right: 40px;
+}
+
+.header__login{
+    display: flex;
+    align-items: center;
+}
+
+
+.header__login-link{
+    color: #C93;
+    font-size: 16px;
+    line-height: normal;
+}
+
+.header__container{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.header__login-img{
+    margin-right: 5px;
+}
+
+.header__nav-list{
+    display: flex; 
+}
+
+.header__nav-item:not(:last-child){
+    margin-right: 45px;
+} 
+
+.header__nav{
+    border-radius: 15px;
+    background: #FFF;
+    padding: 14px 45px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header__nav-btn{
+    color: #C93;
+    font-size: 16px;
+    line-height: normal;
+    border: 1px solid #C93;
+    padding: 13px 20px;
+    border-radius: 10px;
+}
+
+.header__nav-btn:not(:last-child){
+    margin-right: 40px;
+}
+
+.header{
+    margin-bottom: 70px;
+}
